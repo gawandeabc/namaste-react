@@ -5,7 +5,7 @@ const resLists = [
       data: {
         id: 1,
         name: "Biryani Wala",
-        cuisines: ["Biryani", "Chicken"],
+        cuisines: ["Biryani", "Curry"],
         avgRating: "4.2",
         costFoTwo: 25000,
         deliveryTime: "36",
@@ -16,7 +16,7 @@ const resLists = [
       data: {
         id: 2,
         name: "Chicken Wala",
-        cuisines: ["Biryani", "Chicken"],
+        cuisines: ["Nuggets", "Lollypop"],
         avgRating: "4.0",
         costFoTwo: 30000,
         deliveryTime: "40",
@@ -27,7 +27,7 @@ const resLists = [
       data: {
         id: 3,
         name: "Burger Wala",
-        cuisines: ["Bugers", "FastFood"],
+        cuisines: ["Buger", "Rolls"],
         avgRating: "4.1",
         costFoTwo: 30000,
         deliveryTime: "45",
@@ -49,7 +49,7 @@ const resLists = [
       data: {
         id: 5,
         name: "Misal Wala",
-        cuisines: ["Misal Pav", "Buttermilk"],
+        cuisines: ["Misal", "Buttermilk"],
         avgRating: "3.9",
         costFoTwo: 15000,
         deliveryTime: "30",
@@ -60,7 +60,7 @@ const resLists = [
       data: {
         id: 6,
         name: "Colddrink Wala",
-        cuisines: ["Mastani", "Badam Shake"],
+        cuisines: ["Juices", "Shakes"],
         avgRating: "3.5",
         costFoTwo: 10000,
         deliveryTime: "35",
